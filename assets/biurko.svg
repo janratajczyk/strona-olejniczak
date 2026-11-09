@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 760" role="img" aria-labelledby="t d">
+<title id="t">Biurko i książki</title><desc id="d">Ilustracja uporządkowanego biurka z książkami, laptopem i wazonem.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#f7eee3"/><stop offset="1" stop-color="#d7b79a"/></linearGradient><linearGradient id="table" x1="0" x2="1"><stop stop-color="#c79e76"/><stop offset="1" stop-color="#976b4a"/></linearGradient><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#514a44"/><stop offset="1" stop-color="#242321"/></linearGradient></defs>
+<rect width="1040" height="760" fill="url(#bg)"/>
+<path d="M80 0h200l-110 595H0Z" fill="#fff9ee" opacity=".48"/>
+<path d="M308 0h38l-113 597h-38Z" fill="#fff9ee" opacity=".38"/>
+<path d="M0 599h1040v161H0Z" fill="#ddc6ac"/>
+<rect x="70" y="546" width="900" height="45" rx="7" fill="url(#table)"/>
+<path d="M104 585h27l-28 175H75Zm816 0h28l32 175h-29Z" fill="#79563c"/>
+<rect x="352" y="272" width="339" height="262" rx="17" fill="#62564d"/>
+<rect x="368" y="287" width="306" height="226" rx="6" fill="url(#screen)"/>
+<path d="M299 528h430l30 25q-2 13-26 13H290q-25 0-19-13Z" fill="#aba49e"/><path d="M455 532h132l16 11H442Z" fill="#8d8883"/>
+<rect x="126" y="505" width="210" height="35" rx="4" fill="#efe4d2"/><rect x="128" y="505" width="12" height="35" fill="#9b745a"/>
+<rect x="146" y="461" width="173" height="39" rx="4" fill="#958d70"/><rect x="169" y="418" width="155" height="38" rx="4" fill="#d0b092"/><rect x="171" y="420" width="10" height="34" fill="#b38c71"/>
+<ellipse cx="785" cy="546" rx="82" ry="13" fill="#6f5545" opacity=".22"/>
+<path d="M730 484h115l-15 60q-5 23-42 23-33 0-40-23Z" fill="#d4c5b0"/><ellipse cx="787" cy="483" rx="58" ry="14" fill="#eee0cb"/>
+<path d="M790 479q-42-116-17-235m14 164q71-103 39-242m-41 203q-95-56-118-144" fill="none" stroke="#5e6042" stroke-width="7"/>
+<g fill="#69744e"><ellipse cx="748" cy="274" rx="17" ry="40" transform="rotate(-35 748 274)"/><ellipse cx="790" cy="300" rx="17" ry="42" transform="rotate(36 790 300)"/><ellipse cx="831" cy="232" rx="16" ry="40" transform="rotate(30 831 232)"/><ellipse cx="805" cy="190" rx="17" ry="37" transform="rotate(55 805 190)"/><ellipse cx="672" cy="229" rx="18" ry="39" transform="rotate(-55 672 229)"/><ellipse cx="708" cy="329" rx="17" ry="44" transform="rotate(-36 708 329)"/><ellipse cx="859" cy="340" rx="17" ry="38" transform="rotate(39 859 340)"/></g>
+</svg>
