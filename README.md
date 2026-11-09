@@ -4,7 +4,7 @@ Kompletny projekt statycznej strony WWW (3 podstrony), wykonany w HTML, CSS i Ja
 
 ## Zawartość
 
-- `index.html` — strona główna, sekcja o mnie, oferta i kontakt.
+- `index.html` — strona główna, sekcja o mnie, oferta i dane kontaktowe.
 - `o-mnie.html` — podejście do pracy oraz kwalifikacje.
 - `oferta.html` — superwizja (wyróżniona), psychoterapia, praktyczne informacje i FAQ.
 - `styles.css` — komplet stylów, w tym widok na telefony i tablety.
@@ -38,7 +38,7 @@ Następnie otwórz `http://localhost:8000`.
 3. **Oferta.** W `oferta.html` potwierdź zakres superwizji, psychoterapii, dostępne formy (np. online), długość sesji i cennik. Usuń robocze zdania informujące, że dane są do uzupełnienia.
 4. **Kontakt.** W `config.js` wpisz rzeczywisty adres e-mail, telefon i potwierdź miejscowość. Brak adresu e-mail powoduje ukrycie przycisku `Napisz e-mail` — strona nie udaje, że działa bez kontaktu.
 5. **Teksty.** Wszystkie proponowane opisy i cytaty mają charakter roboczy: poproś klientkę o ich przeczytanie, zatwierdzenie i korekty. Nie dopisuj niezweryfikowanych certyfikatów czy obietnic efektów leczenia.
-6. **Informacje prawne i prywatność.** Strona nie ustawia ciasteczek analitycznych, nie ma formularza ani backendu przetwarzającego dane. Jeśli dodasz formularz, analitykę lub narzędzia zewnętrzne, dopasuj politykę prywatności oraz obowiązki RODO. Rozważ także osobną informację o administratorze danych.
+6. **Informacje prawne i prywatność.** Strona nie ustawia ciasteczek analitycznych, zawiera wyłącznie dane kontaktowe (bez formularza) i nie posiada backendu przetwarzającego wiadomości. Jeśli dodasz formularz, analitykę lub narzędzia zewnętrzne, dopasuj politykę prywatności oraz obowiązki RODO. Rozważ także osobną informację o administratorze danych.
 7. **SEO:** każda strona ma tymczasowo `<meta name="robots" content="noindex,nofollow">`, by wyszukiwarki nie indeksowały roboczych treści. **Po ostatecznej akceptacji strony usuń ten tag ze wszystkich trzech plików**, ewentualnie zamień na `index,follow`, i dodaj właściwe kanoniczne URL-e, gdy domena będzie znana.
 
 ## Kolory
