@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+<title id="title">Jasny, spokojny gabinet</title><desc id="desc">Ilustracja fotela, stolika, książek i oliwnej gałązki w ciepłym wnętrzu.</desc>
+<defs>
+ <linearGradient id="wall" x1="0" x2="1"><stop stop-color="#f9efe2"/><stop offset=".54" stop-color="#edddcb"/><stop offset="1" stop-color="#d6bca5"/></linearGradient>
+ <linearGradient id="floor" x1="0" x2="1"><stop stop-color="#c6a586"/><stop offset="1" stop-color="#9b755c"/></linearGradient>
+ <linearGradient id="chair" x1="0" y1=".2" x2="1" y2="1"><stop stop-color="#e9d7c2"/><stop offset=".56" stop-color="#d9bea3"/><stop offset="1" stop-color="#aa846a"/></linearGradient>
+ <linearGradient id="seat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3e4d1"/><stop offset="1" stop-color="#c6a084"/></linearGradient>
+ <linearGradient id="vase" x1="0" x2="1"><stop stop-color="#e6d6c4"/><stop offset="1" stop-color="#bda48d"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<rect width="1080" height="1080" fill="url(#wall)"/>
+<path d="M40 0h320l-90 820H0Z" fill="#fffaf0" opacity=".34"/>
+<path d="M385 0h46l-125 807h-43Z" fill="#fff9eb" opacity=".38"/>
+<path d="M0 801q535-18 1080 0v279H0Z" fill="url(#floor)"/>
+<path d="M0 801q535-18 1080 0" stroke="#c6ab8d" stroke-width="8" fill="none"/>
+<ellipse cx="580" cy="937" rx="365" ry="69" fill="#57412e" opacity=".19" filter="url(#soft)"/>
+<rect x="716" y="116" width="247" height="280" rx="6" fill="#937961" opacity=".28"/>
+<rect x="734" y="133" width="210" height="246" fill="#eee2d2"/>
+<path d="M748 295q60-108 97-85t87-43" stroke="#83916e" stroke-width="14" fill="none" opacity=".8"/>
+<path d="M760 314q70-79 112-58t70-42" stroke="#b8aa81" stroke-width="8" fill="none"/>
+<path d="M253 548q-19-173 82-220 102-47 271-18 112 18 138 125 16 71-17 239l-47 110H299Z" fill="#7f5d44" opacity=".2" filter="url(#shadow)"/>
+<path d="M244 522q-20-172 79-217 101-47 280-17 117 20 142 136 12 74-27 234l-41 104H293Z" fill="url(#chair)" stroke="#c6a98c" stroke-width="8"/>
+<path d="M333 350q80-51 248-16 83 19 93 108 11 85-37 210l-287 20q-73-145-56-237 9-53 39-85Z" fill="#eaddc8" opacity=".66"/>
+<path d="M202 633q-62-61-93-5-33 58 5 161l84 76 89-72-35-115Z" fill="url(#chair)"/>
+<path d="M659 640q44-89 92-56 61 41 25 163l-93 90-94-53Z" fill="url(#chair)"/>
+<path d="M246 676q163-42 412-8 54 6 60 69 3 66-58 90H281q-73-31-65-94 3-40 30-57Z" fill="url(#seat)" stroke="#c49e81" stroke-width="7"/>
+<path d="M267 824h52l-18 132h-29Zm352 0h52l21 132h-31Z" fill="#76553f"/>
+<ellipse cx="857" cy="759" rx="170" ry="37" fill="#68452d" opacity=".2" filter="url(#shadow)"/>
+<ellipse cx="857" cy="721" rx="176" ry="36" fill="#bc8757"/>
+<ellipse cx="857" cy="711" rx="176" ry="34" fill="#dab48a"/>
+<path d="M844 743h27l28 191h-85Z" fill="#9c6d4a"/>
+<path d="M760 918h190l-17 16H779Z" fill="#8e6549"/>
+<path d="M750 691h125v20H750Z" fill="#f2e8d8"/><path d="M750 691h125v6H750Z" fill="#a0856b"/>
+<path d="M774 671h111v17H774Z" fill="#696951"/><path d="M785 649h97v19h-97Z" fill="#c9a581"/>
+<ellipse cx="905" cy="684" rx="35" ry="9" fill="#9b7d65" opacity=".24"/>
+<path d="M880 637h45v43q-5 15-24 15t-21-15Z" fill="#fff7e9"/>
+<path d="M925 648q30-6 25 14-2 15-25 10" stroke="#fff7e9" stroke-width="9" fill="none"/>
+<path d="M980 649q-25-42-17-102 3-78-43-175m43 165q68-112 44-245m-57 217q-82-96-72-166m80 75q87-74 68-165" fill="none" stroke="#565d3c" stroke-width="7" stroke-linecap="round"/>
+<g fill="#606e49">
+<ellipse cx="923" cy="390" rx="17" ry="47" transform="rotate(-42 923 390)"/><ellipse cx="956" cy="439" rx="18" ry="44" transform="rotate(30 956 439)"/>
+<ellipse cx="984" cy="336" rx="17" ry="43" transform="rotate(48 984 336)"/><ellipse cx="1013" cy="286" rx="18" ry="44" transform="rotate(26 1013 286)"/>
+<ellipse cx="886" cy="338" rx="15" ry="41" transform="rotate(-37 886 338)"/><ellipse cx="873" cy="480" rx="18" ry="43" transform="rotate(-55 873 480)"/>
+<ellipse cx="1025" cy="466" rx="16" ry="41" transform="rotate(62 1025 466)"/><ellipse cx="1006" cy="540" rx="15" ry="37" transform="rotate(50 1006 540)"/>
+<ellipse cx="926" cy="535" rx="15" ry="40" transform="rotate(-45 926 535)"/>
+</g>
+<path d="M919 621h118l-18 131q-5 23-43 24-34 0-39-24Z" fill="url(#vase)"/>
+<ellipse cx="978" cy="620" rx="59" ry="15" fill="#e6d6c4"/><ellipse cx="978" cy="623" rx="41" ry="8" fill="#8d7660"/>
+<rect width="1080" height="1080" fill="#fff9ef" opacity=".055"/>
+</svg>
